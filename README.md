@@ -3,5 +3,5 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rromulofer&layout=compact&theme=react" />
 </a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rromulofer&show_icons=true&theme=react)
+![rromulofer](https://github-readme-stats.vercel.app/api?username=rromulofer&show_icons=true&theme=react)
 
