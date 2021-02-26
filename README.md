@@ -3,7 +3,5 @@
 
 ![rromulofer](https://github-readme-stats.vercel.app/api?username=rromulofer&show_icons=true&theme=react)
 
----
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
 
