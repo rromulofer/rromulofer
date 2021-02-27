@@ -9,7 +9,7 @@
 <code><img height="30" src="https://cdn.picpng.com/logo/language-logo-python-44976.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="30" src="https://o.remove.bg/downloads/8b098b6a-9733-4c09-925e-25e7117ce64c/imagem_2021-02-26_225549-removebg-preview.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png"></code>
 <code><img height="30" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png"></code>
