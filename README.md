@@ -5,7 +5,7 @@
 
 ![rromulofer](https://github-readme-stats.vercel.app/api?username=rromulofer&show_icons=true&theme=react)
 
-### ➤ **Tools** and **Languages:**
+### ➤ **Languages** and **Tools:**
 <code><img height="30" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Javascript-shield.svg/726px-Javascript-shield.svg.png"></code>
 <code><img height="30" src="https://1.bp.blogspot.com/-fu3sP1F4vK0/WrcqP08Rb3I/AAAAAAAAAC0/lLABCXa044ITPyTvdoxbE9t2EnAd5zX-ACLcBGAs/s320/html5.png"></code>
