@@ -13,5 +13,5 @@
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png"></code>
 <code><img height="30" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png"></code>
 <code><img height="30" src="https://cdn.picpng.com/logo/language-logo-python-44976.png"></code>
-<code><img height="30" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.treinaweb.com.br%2Fblog%2Fprincipais-ides-para-desenvolvimento-python&psig=AOvVaw3NMf0T3KzeTG351kGrGM_w&ust=1631798832806000&source=images&cd=vfe&ved=0CAkQjRxqFwoTCLDmu8CKgfMCFQAAAAAdAAAAABAS"></code>
+<code><img height="30" src="https://dkrn4sk0rn31v.cloudfront.net/uploads/2020/05/Logo-PyCharm.png"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
