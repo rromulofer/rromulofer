@@ -3,7 +3,7 @@
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rromulofer&layout=compact&theme=react" />
 </a>
 
-![rromulofer](https://github-readme-stats.vercel.app/api?username=rromulofer&show_icons=true&theme=react)
+<!- ![rromulofer](https://github-readme-stats.vercel.app/api?username=rromulofer&show_icons=true&theme=react) ->
 
 ### ➤ **Languages** and **Tools:**
 <code><img height="30" src="https://i.pinimg.com/originals/eb/7e/20/eb7e20e646f5b7ec9ed4f8f78a5dee8f.png"></code>
