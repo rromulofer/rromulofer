@@ -1,7 +1,7 @@
 
-<div style="display: inline-block" align = "center" >
+<div style="display: inline-block" align = "center">
   <a href="https://github.com/rromulofer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&layout=compact&langs_count=8&theme=highcontrast"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&layout=compact&langs_count=8&theme=highcontrast"/>
 <div>
 
  <br>
@@ -17,7 +17,7 @@
  
 <div align="center">
   <a target="_blank" href="https://i.pinimg.com/originals/3d/47/4f/3d474f82ff71595e8081f9a120892ae8.gif">
-      <img align="center" src="https://i.pinimg.com/originals/3d/47/4f/3d474f82ff71595e8081f9a120892ae8.gif"/>
+      <img align="center" height = "450" src="https://i.pinimg.com/originals/3d/47/4f/3d474f82ff71595e8081f9a120892ae8.gif"/>
   </a>
 </div>
   
