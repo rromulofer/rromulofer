@@ -1,5 +1,5 @@
 
-<div style="display: inline-block" align = "center">
+<div style="display: inline-block" align = "center" >
   <a href="https://github.com/rromulofer">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&layout=compact&langs_count=8&theme=highcontrast"/>
 <div>
