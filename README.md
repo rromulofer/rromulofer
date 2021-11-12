@@ -1,4 +1,11 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
+
+<div align="center">
+  <a target="_blank" href="https://i.pinimg.com/originals/3d/47/4f/3d474f82ff71595e8081f9a120892ae8.gif">
+      <img align="center" src="https://i.pinimg.com/originals/3d/47/4f/3d474f82ff71595e8081f9a120892ae8.gif"/>
+  </a>
+</div>
+
+<br>
 
 <div style="display: inline-block">
   <a href="https://github.com/rromulofer">
@@ -14,7 +21,9 @@
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
 <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
 
-
+<br>
+  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
 <!--
 <div style="display: inline-block">
   <a href="https://github.com/rromulofer">
