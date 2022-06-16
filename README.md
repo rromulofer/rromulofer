@@ -16,8 +16,8 @@
 <br>
  
 <div align="center">
-  <a target="_blank" href="https://i.pinimg.com/originals/3d/47/4f/3d474f82ff71595e8081f9a120892ae8.gif">
-      <img align="center" height = "450" src="https://i.pinimg.com/originals/3d/47/4f/3d474f82ff71595e8081f9a120892ae8.gif"/>
+  <a target="_blank" href="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif">
+      <img align="center" height = "200" src="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif"/>
   </a>
 </div>
   
