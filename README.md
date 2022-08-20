@@ -7,24 +7,27 @@
  <br>
   
 **TOOLS:**
-<code><img height="20" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
+<code><img height="30" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
 
 <br>
  
+  
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
+
+
+
+<!--
+
 <div align="center">
   <a target="_blank" href="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif">
       <img align="center" height = "200" src="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif"/>
   </a>
 </div>
-  
- <br>
-  
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
-<!--
+
 https://media0.giphy.com/media/CdxBRh8v9pVJIrd4J3/200.gif
 https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif 
 <div style="display: inline-block">
