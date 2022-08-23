@@ -18,15 +18,13 @@
   
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
 
-
-
-<!--
-
 <div align="center">
   <a target="_blank" href="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif">
       <img align="center" height = "200" src="https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif"/>
   </a>
 </div>
+
+<!--
 
 https://media0.giphy.com/media/CdxBRh8v9pVJIrd4J3/200.gif
 https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif 
