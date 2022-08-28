@@ -7,12 +7,12 @@
  <br>
   
 **TOOLS:**
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg"></code>
-<code><img height="30" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png"></code>
-<code><img height="30" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png"></code>
-<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png"></code>
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1024px-Visual_Studio_Code_1.35_icon.svg.png">
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/1/1d/PyCharm_Icon.svg">
+<img height="20" src="https://user-images.githubusercontent.com/11943860/46922575-7017cf80-cfe1-11e8-845a-0cd198fb546c.png">
+<img height="20" src="https://www.freeiconspng.com/thumbs/c-logo-icon/dev-visual-c-plus-plus-logo-icon-11.png">
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png">
+<img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png">
 
 <br>
  
