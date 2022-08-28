@@ -11,6 +11,14 @@
 <img height="40" src="https://img.icons8.com/offices/344/java-eclipse.png">
 <img height="40" src="https://img.icons8.com/color/344/git.png">
 <img height="40" src="https://img.icons8.com/color/344/github--v1.png">
+<img height="40" src="https://img.icons8.com/fluency/344/anaconda--v2.png">
+<img height="40" src="https://img.icons8.com/fluency/344/node-js.png">
+<img height="40" src="https://img.icons8.com/fluency/344/arduino.png">
+ 
+<img height="40" src="https://img.icons8.com/fluency/344/jupyter.png">
+<img height="40" src="https://img.icons8.com/fluency/344/node-js.png">
+<img height="40" src="https://img.icons8.com/fluency/344/arduino.png">
+ 
 
 <br>
 <br>
