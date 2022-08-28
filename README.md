@@ -16,9 +16,7 @@
 <img height="40" src="https://img.icons8.com/fluency/344/arduino.png">
  
 <img height="40" src="https://img.icons8.com/fluency/344/jupyter.png">
-<img height="40" src="https://img.icons8.com/fluency/344/node-js.png">
-<img height="40" src="https://img.icons8.com/fluency/344/arduino.png">
- 
+
 
 <br>
 <br>
