@@ -3,9 +3,6 @@
   <img alt="rromulofer's most used Programming lng" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&layout=compact&hide=html&theme=highcontrast&hide_border=true&&langs_count=12" alt="rromulofer"/>
 <div>
 
-
-
-
 <br>
 
 <img height="40" src="https://img.icons8.com/fluency/344/visual-studio-code-2019.png">
