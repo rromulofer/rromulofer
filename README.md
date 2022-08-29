@@ -32,8 +32,11 @@
 
 <!--
 https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif
+
 https://media0.giphy.com/media/CdxBRh8v9pVJIrd4J3/200.gif
+
 https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif 
+
 <div style="display: inline-block">
   <a href="https://github.com/rromulofer">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rromulofer&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
