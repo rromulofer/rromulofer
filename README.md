@@ -30,7 +30,7 @@
 
 <br>
   
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
 
 <!--
 https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif
