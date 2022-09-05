@@ -14,8 +14,10 @@
 <img height="40" src="https://img.icons8.com/fluency/344/anaconda--v2.png">
 <img height="40" src="https://img.icons8.com/fluency/344/node-js.png">
 <img height="40" src="https://img.icons8.com/fluency/344/arduino.png">
- 
 <img height="40" src="https://img.icons8.com/fluency/344/jupyter.png">
+<img height="40" src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP_400x400.png">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TeXstudio_Logo.svg/1024px-TeXstudio_Logo.svg.png">
+<img height="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/jabref-icon.png">
 
 
 <br>
