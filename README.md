@@ -1,7 +1,7 @@
 
 
 <div style="display: inline-block" align = "center">
-  <img alt="rromulofer's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&layout=compact&hide=&theme=dark&hide_border=true&&langs_count=10" alt="rromulofer" />
+  <img alt="rromulofer's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&layout=compact&hide=&theme=highcontrast&hide_border=true&&langs_count=10" alt="rromulofer" />
 <div>
 
 <br>
