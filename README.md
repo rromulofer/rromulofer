@@ -17,6 +17,8 @@
 <img height="40" src="https://pbs.twimg.com/profile_images/551035690234834945/JhdUiOPP_400x400.png">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TeXstudio_Logo.svg/1024px-TeXstudio_Logo.svg.png">
 <img height="40" src="https://icons.iconarchive.com/icons/papirus-team/papirus-apps/512/jabref-icon.png">
+<img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/768px-Racket-logo.svg.png">
+
 
 
 <br>
