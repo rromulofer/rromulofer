@@ -17,15 +17,9 @@
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TeXstudio_Logo.svg/1024px-TeXstudio_Logo.svg.png">
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/768px-Racket-logo.svg.png">
 
-
-
 <br>
 <br>
 
-
-
-<br>
-  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
 
 <!--
@@ -35,19 +29,5 @@
       <img align="center" height = "300" src="https://media0.giphy.com/media/CdxBRh8v9pVJIrd4J3/200.gif"/>
   </a>
 </div>
-
-
-https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif
-
-https://media0.giphy.com/media/CdxBRh8v9pVJIrd4J3/200.gif
-
-https://media1.giphy.com/media/zOvBKUUEERdNm/200.gif 
-
-<div style="display: inline-block">
-  <a href="https://github.com/rromulofer">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=rromulofer&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-<br>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&layout=compact&langs_count=8&theme=highcontrast"/>
-<div>
 
 -->
