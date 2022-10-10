@@ -16,6 +16,7 @@
 <img height="40" src="https://img.icons8.com/fluency/344/jupyter.png">
 <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TeXstudio_Logo.svg/1024px-TeXstudio_Logo.svg.png">
 <img height="35" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Racket-logo.svg/768px-Racket-logo.svg.png">
+<img height="40" src="https://upload.wikimedia.org/wikipedia/commons/b/b1/Scilab_Logo.png">
 
 <br>
 <br>
