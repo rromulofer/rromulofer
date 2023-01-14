@@ -1,12 +1,7 @@
-
-
 <div style="display: inline-block" align = "center">
-  <img alt="rromulofer's most used Programming lng " src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&layout=compact&hide=&theme=highcontrast&hide_border=true&&langs_count=10" alt="rromulofer" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&&show_icons=true&hide_title=true&theme=highcontrast&layout=compact&hide_border=true&border_radius=10&langs_count=10" alt="rromulofer"/>
 <div>
 
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rromulofer" alt="rromulofer" /> </p>
 
 <!--
 
