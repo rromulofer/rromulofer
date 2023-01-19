@@ -1,4 +1,7 @@
-
+<div style="display: inline-block" align = "center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rromulofer&&show_icons=true&hide_title=true&theme=highcontrast&layout=compact&hide_border=true&border_radius=30&langs_count=15" alt="rromulofer"/>
+<div>
+    
 <!--
 
 <div style="display: inline-block" align = "center">
